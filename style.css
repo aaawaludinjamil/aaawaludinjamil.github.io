@@ -1,0 +1,22 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+.section {
+  padding-top: 2rem;
+  background-color: aqua;
+  border-top: 10px;
+  width: 500px;
+  height: 500px;
+  align-content: center;
+}
+
+.section ul li {
+  font-size: 12px;
+  font-style: italic;
+}
